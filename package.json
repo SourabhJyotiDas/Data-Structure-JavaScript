@@ -1,0 +1,15 @@
+{
+  "name": "data-structure-complete",
+  "version": "1.0.0",
+  "description": "Learning Data Structure (JavaScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Data",
+    "Structure"
+  ],
+  "author": "Sourabh Jyoit das",
+  "license": "ISC"
+}
